@@ -11,4 +11,24 @@ var arr1 = [1, 2];
 var x;
 x = ["Rcik", 4];
 console.log(x[0]);
+var Color;
+(function (Color) {
+    Color[Color["Red"] = 0] = "Red";
+    Color[Color["Green"] = 1] = "Green";
+    Color[Color["Blue"] = 2] = "Blue";
+})(Color || (Color = {}));
+;
+var c = Color.Blue;
+console.log(c);
+var y = 1;
+y = "I am String";
+y = false;
+console.log(y);
+var z = 4;
+z.toFixed();
+console.log(z);
+var arrayList = [1, false, "fine"];
+arrayList[0] = 100;
+console.log(arrayList);
+console.log(arrayList[0]);
 //# sourceMappingURL=hello.js.map
