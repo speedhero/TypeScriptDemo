@@ -5,12 +5,16 @@
         <item url="file://$PROJECT_DIR$/src/hello.js" />
         <item url="file://$PROJECT_DIR$/src/ScriptClass.js" />
         <item url="file://$PROJECT_DIR$/src/Person.js" />
+        <item url="file://$PROJECT_DIR$/src/null&amp;undefined.js" />
+        <item url="file://$PROJECT_DIR$/src/functionVoidDemo.js" />
       </sourceFilesUrls>
     </properties>
     <CLASSES>
       <root url="file://$PROJECT_DIR$/src/hello.js" />
       <root url="file://$PROJECT_DIR$/src/ScriptClass.js" />
       <root url="file://$PROJECT_DIR$/src/Person.js" />
+      <root url="file://$PROJECT_DIR$/src/null&amp;undefined.js" />
+      <root url="file://$PROJECT_DIR$/src/functionVoidDemo.js" />
     </CLASSES>
     <SOURCES />
   </library>
